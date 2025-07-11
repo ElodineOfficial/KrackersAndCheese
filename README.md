@@ -1,5 +1,5 @@
 # KrackersAndCheese
-A kryptos scanner that proves how Sanborn originally intended K1 and K2 to be solved, includes an extended english crib list and K3-K4 for future crib scanning. Only K1 and K2 verified currently. Additional possible cribs have been added, but only further verified the initial solution methods for K1 and K2. Full details below.
+The confirmation_cracker will show you the connections between K0-K1-K2. The full_password_slider goes through Kryptos step by step in an attempt to confirm there are no additional passwords hidden within this manner. A kryptos scanner that proves how Sanborn originally intended K1 and K2 to be solved, includes an extended english crib list and K3-K4 for future crib scanning. Only K1 and K2 verified currently. Additional possible cribs have been added, but only further verified the initial solution methods for K1 and K2. Full details below.
 
 How to solve:
 
