@@ -7,19 +7,33 @@ Steps:
 Write out morse code drop final two blocks, list the first mirrors and middle letter for each mirror:
 
 Line (left → right scan)	first mirror you meet	middle letter
+
 EEVIRTUALLYE	LL	L
+
 EEEEEEINVISIBLE	ISI	S
+
 DIGETALEEE	none (skip)	–
+
 INTERPRETATIT	ERPRE (length 5)	P
+
 (same word) … TAT …	TAT	A
+
 (same word) … TIT	TIT	I
+
 EESHADOWEE	AHA	H (we’ll not use H)
+
 FORCESEEEEE	ESE	S
+
 LUCIDEEE	DEE (even pair)	E? (we’ll grab a better M in a second)
+
 MEMORYE	MEM	E
+
 (same word) MEME…	EME	M
+
 POSITIONE	ITI	T
+
 SOS	SOS	(O – not needed)
+
 Result:
 
 PALIMHSEST E vs PALIMPSEST
